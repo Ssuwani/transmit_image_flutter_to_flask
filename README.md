@@ -14,5 +14,7 @@ python3 test/flask_server_for_receive.py
 flutter run
 ```
 
+## Operation Video
 
+[![Video Label](screenshot.png)](https://youtu.be/Vz42rCPnWl8)
 
