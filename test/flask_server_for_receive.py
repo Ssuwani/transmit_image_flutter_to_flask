@@ -10,10 +10,10 @@ def hello_world():
     imgdata = base64.b64decode(image_data)
     
     # for show
-    from PIL import Image
-    import io
-    image = Image.open(io.BytesIO(imgdata))
-    image.show()
+    # from PIL import Image
+    # import io
+    # image = Image.open(io.BytesIO(imgdata))
+    # image.show()
     
     # save image
     filename = 'something.jpg'
